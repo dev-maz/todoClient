@@ -1,4 +1,4 @@
-module todoClient
+module github.com/dev-maz/todoClient
 
 go 1.26.5
 
